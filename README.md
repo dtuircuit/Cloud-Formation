@@ -24,10 +24,10 @@ The CloudFormation template included in this project creates the following resou
 - **Route Tables**: Route tables to manage routing for the public subnets.
 - **S3 Bucket**: A bucket for storing project-related data.
 
-- ##Deployment
+## Deployment
 To deploy the CloudFormation stack, use the AWS Management Console or AWS CLI:
 
-AWS Management Console
+# AWS Managemnet Console
 Go to the AWS CloudFormation console.
 Click on "Create Stack".
 Upload the CloudFormation template.
